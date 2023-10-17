@@ -1124,4 +1124,11 @@ if __name__ == '__main__':
 ![](Foto1.PNG)
 
 ## Curcuito
-![]()
+![](FRIO.jpg)
+> Clima frio
+
+![](CALIDO.jpg)
+> Clima calido
+
+![](CALOR.jpg)
+> Clima caliente
